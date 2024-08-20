@@ -30,7 +30,7 @@
     }
   ],
   "dependencies": {
-    "async": "^3.2.5",
+    "async": "^3.2.6",
     "axios": "^1.7.2",
     "clean-css": "^5.3.3",
     "cookie-parser": "^1.4.6",
